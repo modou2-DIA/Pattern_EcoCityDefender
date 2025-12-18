@@ -49,7 +49,7 @@ Voir le fichier: `diagrammeClasseDesignPattern.png`
 
 2. **Accéder au dossier :**
    ```bash
-   cd EcoCityDefender
+   cd Pattern_EcoCityDefender
    ```
 
 3. **Compiler et lancer (via Maven) :**
